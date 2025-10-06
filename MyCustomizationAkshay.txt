@@ -1,2 +1,4 @@
 Line 1
+TestGit2 Line
 TestGit1 Line
+
